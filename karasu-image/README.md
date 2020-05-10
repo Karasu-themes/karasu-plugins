@@ -6,9 +6,8 @@
 
 En nuestro **panel » diseño » editar HTML** buscamos `</body>` y agregamos lo siguiente
 ```html
-<script src="./dest/krs-image.min.js"></script>
+<script src="//cdn.jsdelivr.net/gh/Karasu-themes/karasu-plugins/karasu-image/dest/krs-image.min.js"></script>
 ```
-*Recuerda reemplazar la ruta por la real.*
 
 ### Modo de uso
 
